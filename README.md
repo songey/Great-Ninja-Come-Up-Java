@@ -30,7 +30,7 @@ See above...
 
 ### Installing
 How to clone/initialize repository:
-The source code can be found at 'https://github.com/songey/Great_Ninja_Come_Up_Java.git'.
+The source code can be found at https://github.com/songey/Great_Ninja_Come_Up_Java.git.
 git clone
 
 Create a feature branch and push to it. You can do a remote commit with the following:
@@ -54,7 +54,7 @@ When ready to Merge feature branch into master. Click the 'Merge' button and let
 Try to make your feature branch as short and descriptive as you can be. If you have to refactor due to your change(s), create one feature branch for refactoring, another that will build on it.
 
 ## Video Walkthrough
-Coming Soon...
+https://www.youtube.com/embed/E8UiKXXnvvo?rel=0
 
 ## Built With
 Java, STS, JSP, CSS, JavaScript, Adobe Creative Suite
